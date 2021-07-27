@@ -4,7 +4,8 @@
   Becoming a full stack web developer.
 
 - 🌱 I’m currently learning ...
-  VueJS
+  Vue 
   
-- 👯 I’m looking to collaborate on ...
-
+  - Next up will be ...
+  Express.js
+  
