@@ -6,6 +6,6 @@
 - 🌱 I’m currently learning ...
   about APIs 
   
-  - Next up will be ...
+ - 🤔 Think Outside the Rectangle
  
   
